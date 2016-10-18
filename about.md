@@ -22,4 +22,4 @@ Its not the length of life, but the depth.    - Ralph Waldo Emerson
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:thewrightjoshua@gmail.com.com)
