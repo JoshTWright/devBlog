@@ -12,14 +12,14 @@ I graduated from Spotsylvania High School in 2013, then i started attending clas
 
 
 
-Quotes I Enjoy:
+### Quotes I Enjoy:
 
-The master has failed more times than the beginner has even tried.
-                                                - Stephen McCranie
-One dreamed of becoming somebody. Another remained awake and became.
-                                                - A Fortune Cookie
-Its not the length of life, but the depth. 
-                                                - Ralph Waldo Emerson
+The master has failed more times than the beginner has even tried.    - Stephen McCranie
+
+One dreamed of becoming somebody. Another remained awake and became.    - A Fortune Cookie
+
+Its not the length of life, but the depth.    - Ralph Waldo Emerson
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
