@@ -13,7 +13,6 @@ I graduated from Spotsylvania High School in 2013, then i started attending clas
 
 
 Quotes I Enjoy:
----------------
 
 The master has failed more times than the beginner has even tried.
                                                 - Stephen McCranie
