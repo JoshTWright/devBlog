@@ -20,6 +20,8 @@ One dreamed of becoming somebody. Another remained awake and became.    - A Fort
 
 Its not the length of life, but the depth.    - Ralph Waldo Emerson
 
+You don't read the news you're uninformed, you read the news, you're misinformed. - mark twain
+
 ### Contact me
 
 [thewrightjoshua@gmail.com](mailto:thewrightjoshua@gmail.com)
