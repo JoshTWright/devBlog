@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Postgres Commands
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Learning to use postgres this semester in 350 was not an easy task, on the same note it was not incredibly difficult because of the good notes i took. In this post we will be going over some basic postgres knowledge and commands that will show you how to get a simple database set up and will show you which commands will be helpful to you.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
