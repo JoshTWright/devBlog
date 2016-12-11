@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postgres Commands
+title: PostgreSQL Commands
 ---
 
 Learn to use postgres basics to get you up and running.
