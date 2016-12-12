@@ -18,4 +18,7 @@ Starting out we will want to navigate to our terminal on C9 and enter the follow
 
 ![_config.yml]({{ site.baseurl }}/images/pgflogin.png)
 
->This will log us in to our server with the defult password,now we must create a new password
+>This will log us in to our server with the defult password
+
+Now we must create a new password so we can create a more secure way to connect to our server
+The following command will acomplish this task.
