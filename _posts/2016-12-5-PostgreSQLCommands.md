@@ -22,7 +22,8 @@ Now we should login so that we can make changes to the server
 
 >^This will log us in to our server with the defult password
 
-We must create a new password so we can create a more secure way to connect to our server.
+We must create a new password so we can create a more secure way to connect to our server. The following command may help with that.
 
 ![_config.yml]({{ site.baseurl }}/images/pgpasschange.png)
 
+>^The defult password to our server has been changed
