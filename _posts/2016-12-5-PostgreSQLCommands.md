@@ -20,10 +20,12 @@ Now we should login so that we can make changes to the server
 
 ![_config.yml]({{ site.baseurl }}/images/pgflogin.png)
 
->^This will log us in to our server with the defult password
+>^<sup>This will log us in to our server with the defult password</sup>
 
 We must create a new password so we can create a more secure way to connect to our server. The following command may help with that.
 
 ![_config.yml]({{ site.baseurl }}/images/pgpasschange.png)
 
->^The defult password to our server has been changed
+>^<sub>The defult password to our server has been changed</sub>
+
+Up to this point we have been working with the defult account on the postgresql server, this accound is refered to as the admin account and it is the general concesus that best practice is to only use the admin account for executive decision making and creating other accounts. In the next section we will be discussing how to create these new accounts and how to control what they do and dont have access to.
