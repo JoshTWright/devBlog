@@ -16,4 +16,6 @@ Starting out we will want to navigate to our terminal on C9 and enter the follow
 
 >This will start our postgresql server and allow us to login and begin making changes on the server
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/images/pgflogin.png)
+
+>This will log us in to our server with the defult password,now we must create a new password
