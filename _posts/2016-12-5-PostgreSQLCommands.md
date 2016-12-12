@@ -14,11 +14,11 @@ Starting out we will want to navigate to our terminal on C9 and enter the follow
 
 ![_config.yml]({{ site.baseurl }}/images/pgstart.png)
 
->This will start our postgresql server and allow us to login and begin making changes on the server
+>^This will start our postgresql server and allow us to login and begin making changes on the server
 
 ![_config.yml]({{ site.baseurl }}/images/pgflogin.png)
 
->This will log us in to our server with the defult password
+>^This will log us in to our server with the defult password
 
 Now we must create a new password so we can create a more secure way to connect to our server
 The following command will acomplish this task.
