@@ -80,13 +80,12 @@ One of those is the describe command, it will show all tables in a database, the
 
 >^this command describe the database in more detil
 
-databases and thier tables can have multiple accounts tied to them within the postgresql server, 
+Databases and thier tables can have multiple accounts tied to them within the postgresql server, 
 each account can have a different set of permissions. 
-*This may make more sense once you read the section later on about accounts and permissions
 
 ![_config.yml]({{ site.baseurl }}/images/pgpermdb.png)
 
->^this command will show all permissions for tables in a given database.
+>^this command will show all permissions for tables in a given database. In this example there are two accounts postgres and newuser, both have all permissions active on the two listed tables in our mydata database.
 
 ## Tables
 The first thing we can do with out newly created database is stick a table in there
