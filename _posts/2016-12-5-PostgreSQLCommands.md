@@ -46,5 +46,10 @@ Now we have the basic server setup done we can move on to creating databases
 
 >^this makes a database called mydata
 
+The first thing we can do with out newly created database is stick a table in there
+
+![_config.yml]({{ site.baseurl }}/images/pgmaketable.png)
+
+>^this makes a table called myinfo in the database mydata
 
 Up to this point we have been working with the defult account on the postgresql server, this account is refered to as the admin account and it is the general concesus that best practice is to only use the admin account for executive decision making and creating other accounts. In the next section we will be discussing how to create these new accounts and how to control what they do and dont have access to.
