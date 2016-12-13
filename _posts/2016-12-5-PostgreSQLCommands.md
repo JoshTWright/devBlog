@@ -38,7 +38,7 @@ Now we can login to our server using a similar command from the first time, take
 
 ![_config.yml]({{ site.baseurl }}/images/pgnlogin.png)
 
->^ sudo sudo -U postgres psql  -----> psql -U postgres -h localhost
+>^ sudo sudo -U postgres psql  ------> psql -U postgres -h localhost
 
 
 
