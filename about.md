@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently attending the University Of Mary Washington with a major Computer Science and a minor in Data Science.
+I am currently attending the University Of Mary Washington with a major Computer Science and a minor in Data Science. I have created this blog as a way of keeping good notes of things that i think may be of use to me in the future. The notes are writen in a way so that others may be able to learn and grow their knowledge base from what i have provieded.
 
 ### More Information
 
