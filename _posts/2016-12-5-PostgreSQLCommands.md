@@ -78,7 +78,7 @@ One of those is the describe command, it will show all tables in a database, the
 
 ![_config.yml]({{ site.baseurl }}/images/pgdescribemoredb.png)
 
->^this command describe the database in more detil
+>^this command describe the database in more detail
 
 Databases and thier tables can have multiple accounts tied to them within the postgresql server, 
 each account can have a different set of permissions. 
@@ -103,3 +103,9 @@ We can drop tables just like we can drop databases.
 ## Roles (Accounts)
 
 Up to this point we have been working with the defult account on the postgresql server, this account is refered to as the admin account and it is the general concesus that best practice is to only use the admin account for executive decision making and creating other accounts. In the next section we will be discussing how to create these new accounts and how to control what they do and dont have access to.
+
+We are given the postgres defult admin account when we start our server for the first time, but we want to make more accounts to use for accessing our data so we can create a secure hierarchy of privilage.
+
+![_config.yml]({{ site.baseurl }}/images/pgcreaterole.png)
+
+>^this creates a user also known as a 'role' with the ability to login
