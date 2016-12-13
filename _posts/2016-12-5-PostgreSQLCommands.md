@@ -104,7 +104,7 @@ We can drop tables just like we can drop databases.
 
 Up to this point we have been working with the defult account on the postgresql server, this account is refered to as the admin account and it is the general concesus that best practice is to only use the admin account for executive decision making and creating other accounts. In the next section we will be discussing how to create these new accounts and how to control what they do and dont have access to.
 
-We are given the postgres defult admin account when we start our server for the first time, but we want to make more accounts to use for accessing our data so we can create a secure hierarchy of privilage.
+We are given the postgres defult admin account when we start our server for the first time, but we want to make more accounts to use for accessing our data so we can create a secure hierarchy of privilege.
 
 ![_config.yml]({{ site.baseurl }}/images/pgcreaterole.png)
 
@@ -126,10 +126,22 @@ Okay so you have given a user permission to do something and now you have change
 
 >^The revoke command will remove the permission specified from the table specified
 
-There are many options when it comes to what permissions can be granted and revoked, below is a table showing the examples.
+There are many options when it comes to which permissions postgresql supports.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+### ist of possible privileges
+Select
+Insert
+Update
+Delete
+Truncate
+References
+Connect
+Create
+Trigger
+Temp
+Temporary
+Usage
+Ececute
+All Privileges
+
+
