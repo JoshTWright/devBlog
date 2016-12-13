@@ -129,19 +129,19 @@ Okay so you have given a user permission to do something and now you have change
 There are many options when it comes to which permissions postgresql supports.
 
 ### ist of possible privileges
-Select
-Insert
-Update
-Delete
-Truncate
-References
-Connect
-Create
-Trigger
-Temp
-Temporary
-Usage
-Ececute
-All Privileges
+Select ;nbsp
+Insert ;nbsp
+Update ;nbsp
+Delete ;nbsp 
+Truncate ;nbsp
+References ;nbsp
+Connect ;nbsp
+Create ;nbsp
+Trigger ;nbsp
+Temp ;nbsp
+Temporary ;nbsp
+Usage ;nbsp
+Ececute ;nbsp
+All Privileges ;nbsp
 
 
