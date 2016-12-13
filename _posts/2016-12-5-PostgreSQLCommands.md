@@ -109,3 +109,27 @@ We are given the postgres defult admin account when we start our server for the 
 ![_config.yml]({{ site.baseurl }}/images/pgcreaterole.png)
 
 >^this creates a user also known as a 'role' with the ability to login
+
+Once we create the role using our admin account we can then begin giving the role permissions pertaining to specific tables.
+
+![_config.yml]({{ site.baseurl }}/images/pggrantselect.png)
+
+>^Gives newuser role the permission to Select from the myinfo and myinfo_id_seq tables 
+
+![_config.yml]({{ site.baseurl }}/images/pggrantupdate.png)
+
+>^Gives newuser role the permission to Insert into the myinfo table and update the id of the myinfo_id_seq table 
+
+Okay so you have given a user permission to do something and now you have changed your mind, thankfully for you there is a revoke command built right in.
+
+![_config.yml]({{ site.baseurl }}/images/pgrevoke.png)
+
+>^The revoke command will remove the permission specified from the table specified
+
+There are many options when it comes to what permissions can be granted and revoked, below is a table showing the examples.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
