@@ -72,11 +72,11 @@ you can tell which database you are in by looking to the left of the # sign on t
 There are little commands that will also help you in your endevors with postgresql databases.
 One of those is the describe command, it will show all tables in a database, there are two versions which i will show below.
 
-![_config.yml]({{ site.baseurl }}/images/pgdescibedb.png)
+![_config.yml]({{ site.baseurl }}/images/pgdescribedb.png)
 
 >^this command describe the database
 
-![_config.yml]({{ site.baseurl }}/images/pgdescibemoredb.png)
+![_config.yml]({{ site.baseurl }}/images/pgdescribemoredb.png)
 
 >^this command describe the database in more detil
 
@@ -99,4 +99,7 @@ We can drop tables just like we can drop databases.
 ![_config.yml]({{ site.baseurl }}/images/pgdroptable.png)
 
 >^this makes a table called myinfo in the database mydata
+
+## Roles (Accounts)
+
 Up to this point we have been working with the defult account on the postgresql server, this account is refered to as the admin account and it is the general concesus that best practice is to only use the admin account for executive decision making and creating other accounts. In the next section we will be discussing how to create these new accounts and how to control what they do and dont have access to.
