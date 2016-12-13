@@ -60,6 +60,8 @@ We can switch between databases if needed
 >^this command will change the current database we reside in to mydata
 
 We can also delete databases, this is refered to as 'dropping a database'
+please note that you cannot drop a database if you are currently inside of it, 
+you can tell which database you are in by looking to the left of the # sign on the terminal.
 
 ![_config.yml]({{ site.baseurl }}/images/pgdeletedb.png)
 
