@@ -40,7 +40,11 @@ Now we can login to our server using a similar command from the first time, take
 
 >^ sudo sudo -U postgres psql  ------> psql -U postgres -h localhost
 
+Now we have the basic server setup done we can move on to creating databases
+
+![_config.yml]({{ site.baseurl }}/images/pgmakedb.png)
+
+>^this makes a database called mydata
 
 
-
-Up to this point we have been working with the defult account on the postgresql server, this accound is refered to as the admin account and it is the general concesus that best practice is to only use the admin account for executive decision making and creating other accounts. In the next section we will be discussing how to create these new accounts and how to control what they do and dont have access to.
+Up to this point we have been working with the defult account on the postgresql server, this account is refered to as the admin account and it is the general concesus that best practice is to only use the admin account for executive decision making and creating other accounts. In the next section we will be discussing how to create these new accounts and how to control what they do and dont have access to.
