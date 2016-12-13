@@ -72,7 +72,7 @@ you can tell which database you are in by looking to the left of the # sign on t
 There are little commands that will also help you in your endevors with postgresql databases.
 One of those is the describe command, it will show all tables in a database, there are two versions which i will show below.
 
-![_config.yml]({{ site.baseurl }}/images/pgdescribedb.png)
+![_config.yml]({{ site.baseurl }}/images/pgpdescribedb.png)
 
 >^this command describe the database
 
