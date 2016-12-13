@@ -69,6 +69,16 @@ you can tell which database you are in by looking to the left of the # sign on t
 
 >^this command will drop the myotherdata database
 
+It is also possible to create databases and tables within postgeSQL using the insert command.
+
+![_config.yml]({{ site.baseurl }}/images/pgfilecon.png)
+
+>^The contents of the SQL file
+
+![_config.yml]({{ site.baseurl }}/images/pginsertdb.png)
+
+>^postgres will search for a file in the directory by the name given and if found will treat all lines in the file as commands
+
 There are little commands that will also help you in your endevors with postgresql databases.
 One of those is the describe command, it will show all tables in a database, there are two versions which i will show below.
 
@@ -128,7 +138,7 @@ Okay so you have given a user permission to do something and now you have change
 
 There are many options when it comes to which permissions postgresql supports.
 
-### ist of possible privileges
+### List of possible privileges
 Select <br>
 Insert <br>
 Update <br>
